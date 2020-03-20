@@ -24,7 +24,7 @@ Use the menu of **My Apps** to Add a Designer Folder as depicted below:
 
 Name the new to be added Designer Folder: **Example Designer Folder** as depicted below:
 
-![Add Designer Folder - Example Designer Folder](https://github.com/vanHeemstraSystems/decisions-hello-world-headstart/blob/master/Decisions_Studio-Add_Designer_Folder_Example_Designer_Folder.png)
+![Add Designer Folder - Example Designer Folder](https://raw.githubusercontent.com/vanHeemstraSystems/decisions-hello-world-headstart/master/Decisions_Studio-Add_Designer_Folder_Example_Designer_Folder.png)
 
 Once added under My Apps, the Example Designer Folder will look empty as shown next:
 
