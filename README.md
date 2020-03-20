@@ -20,7 +20,7 @@ Once logged in, browse to https://trial4.decisions.com/decisions/NotApplicable/S
 
 Use the menu of **My Apps** to Add a Designer Folder as depicted below:
 
-![Add Designer Folder](https://github.com/vanHeemstraSystems/decisions-hello-world-headstart/blob/master/Decisions_Studio-Add_Designer_Folder.png)
+![Add Designer Folder](https://raw.githubusercontent.com/vanHeemstraSystems/decisions-hello-world-headstart/master/Decisions_Studio-Add_Designer_Folder.png)
 
 Name the new to be added Designer Folder: **Example Designer Folder** as depicted below:
 
