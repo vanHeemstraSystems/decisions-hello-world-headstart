@@ -16,3 +16,9 @@ NOTE: For this trail we have named our Company/Project: "Not Applicable"
 
 Once logged in, browse to https://trial4.decisions.com/decisions/NotApplicable/StudioH/
 
+## Add a Designer Folder
+
+Use the menu of **My Apps** to Add a Designer Folder as depicted below:
+
+![Add Designer Folder]()
+
