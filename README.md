@@ -14,5 +14,5 @@ NOTE: For this trail we have named our Company/Project: "Not Applicable"
 
 ## Switch to Decisions Studio
 
-Once logged in, browse to https://trial4.decision.com/decisions/NotApplicable/StudioH/
+Once logged in, browse to https://trial4.decisions.com/decisions/NotApplicable/StudioH/
 
