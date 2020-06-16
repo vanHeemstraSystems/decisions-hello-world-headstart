@@ -1,7 +1,12 @@
 decisions-hello-world-headstart
 # Decisions "Hello World" - Headstart
 
-## Access Decisions
+## Download Free Personal License
+he Decisions Platform can be installed and used for free - without a license for development work and exploration. Any unlicensed server will operate in ‘personal server mode’, which is fully functional with one limitation - it can only be accessed from the device that it’s installed on. This allows developers to play with the SDK, for people to work on laptops, etc. - without needing a license. If your company is already a Decisions customer, you are entitled to support - even on the free personal server.
+
+[Download and Install](https://releases.decisions.com/Releases/)
+
+## Access Decisions (Trial Version, will expire)
 
 Access the Decisions web site (trial version) at https://trial4.decisions.com/
 
