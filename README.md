@@ -1,14 +1,34 @@
 decisions-hello-world-headstart
 # Decisions "Hello World" - Headstart
 
+## Use your Cloud Based Windows 10 Desktop Server from Paperspace
+After having signed up with Paperspace (https://paperspace.com) start your (new) Cloud Based Windows 10 Desktop Server.
+
+Sign in at https://www.paperspace.com/vdi
+
+- Username: wvanheemstra@icloud.com
+- Password: *****
+
+
 ## Download Free Personal License
-he Decisions Platform can be installed and used for free - without a license for development work and exploration. Any unlicensed server will operate in ‘personal server mode’, which is fully functional with one limitation - it can only be accessed from the device that it’s installed on. This allows developers to play with the SDK, for people to work on laptops, etc. - without needing a license. If your company is already a Decisions customer, you are entitled to support - even on the free personal server.
+The Decisions Platform can be installed and used for free - without a license for development work and exploration. Any unlicensed server will operate in ‘personal server mode’, which is fully functional with one limitation - it can only be accessed from the device that it’s installed on. This allows developers to play with the SDK, for people to work on laptops, etc. - without needing a license. If your company is already a Decisions customer, you are entitled to support - even on the free personal server.
 
 [Download and Install](https://releases.decisions.com/Releases/)
 
-## Access Decisions (Trial Version, will expire)
+## Install Decisions on Cloud Based Windows 10 Desktop
+Follow these guidelines:
 
-Access the Decisions web site (trial version) at https://trial4.decisions.com/
+https://documentation.decisions.com/docs/installation-ms-sql#
+
+## Access Decisions (Personal Server / Trial Version, will expire)
+
+(Option A) Trial Server:
+
+- Access the Decisions web site (trial version) at https://trial4.decisions.com/
+
+(Option B) Personal Server:
+
+- Start the Decsions application on your Cloud Based Windows 10 Desktop on Paperspace.
 
 **Credentials**
 
